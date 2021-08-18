@@ -5,7 +5,7 @@ This repository contains the contents of the project done in **IE643: Deep Learn
 > - **Offering**: Autumn semester
 ### Project Title: The Lottery Ticket Hypothesis - Finding Sparse Trainable Network
 ### Project Team:
-> | Name | Roll |
+> | **Name** | **Roll** |
 > | :---:   | :-: | 
 > | Abhishek Narayan Chaudhury  | 19i190005 | 
 > | Subhadeep Chaudhuri | 19i190010 | 
