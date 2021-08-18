@@ -13,6 +13,11 @@ This repository contains the contents of the project done in **IE643: Deep Learn
 
 ### Project Description: 
 > In this project, we try to observe pruned subnetworks derived from original networks which can output commensurate accuracy compared to the original network.  
+
+### Contents:
+> - [Project Report]()
+> - [Code]()
+> - [Presentations prepared]()
 ### Repositories consulted for reference code:
 > <ul>
 >  <li><a href='https://github.com/ktkth5/lottery-ticket-hyopothesis'>Repository 1</a>
