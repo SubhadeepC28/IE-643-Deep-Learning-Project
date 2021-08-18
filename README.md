@@ -10,15 +10,15 @@ This repository contains the contents of the project done in **IE643: Deep Learn
 > | Abhishek Narayan Chaudhury  | 19i190005 | 
 > | Subhadeep Chaudhuri | 19i190010 | 
 > | Saptarshi Majumder      | 19i190011 |
-
-### Project Description: 
-> In this project, we try to observe pruned subnetworks derived from original networks which can output commensurate accuracy compared to the original network.  
-
 ### Contents:
 > - [Project Report](https://github.com/SubhadeepC28/IE-643-Deep-Learning-Project/blob/main/Report/C3POs_IE643_Project_Report.pdf)
 > - [Code]()
 > - [Presentations prepared](https://github.com/SubhadeepC28/IE-643-Deep-Learning-Project/tree/main/Presentations)
-### Repositories consulted for reference code:
+### Project Description: 
+> In this project, we try to observe pruned subnetworks derived from original networks which can output commensurate accuracy compared to the original network. We try to observe the above over 2 network architectures - the LeNet architecture and a feed-forward multi-layer perceptron (MLP).
+> We also try to look into the aspects of transfer learning using these pruned subnetworks (called the _Lottery Tickets_) over a dataset pertaining to the same domain.
+
+### Repositories consulted for reference:
 > <ul>
 >  <li><a href='https://github.com/ktkth5/lottery-ticket-hyopothesis'>Repository 1</a>
 >  <li><a href='https://github.com/rahulvigneswaran/Lottery-Ticket-Hypothesis-in-Pytorch'>Repository 2</a> 
