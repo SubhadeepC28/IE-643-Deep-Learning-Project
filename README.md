@@ -15,7 +15,7 @@ This repository contains the contents of the project done in **IE643: Deep Learn
 > In this project, we try to observe pruned subnetworks derived from original networks which can output commensurate accuracy compared to the original network.  
 
 ### Contents:
-> - [Project Report](https://github.com/SubhadeepC28/IE-643-Deep-Learning-Project/tree/main/Report)
+> - [Project Report](https://github.com/SubhadeepC28/IE-643-Deep-Learning-Project/blob/main/Report/C3POs_IE643_Project_Report.pdf)
 > - [Code]()
 > - [Presentations prepared](https://github.com/SubhadeepC28/IE-643-Deep-Learning-Project/tree/main/Presentations)
 ### Repositories consulted for reference code:
