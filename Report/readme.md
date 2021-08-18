@@ -1,1 +1,1 @@
-Folder contains the midterm and final report submitted for evaluation
+Folder contains the final report submitted for evaluation
