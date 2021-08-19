@@ -12,7 +12,7 @@ This repository contains the contents of the project done in **IE643: Deep Learn
 > | Saptarshi Majumder      | 19i190011 |
 ### Contents:
 > - [Project Report](https://github.com/SubhadeepC28/IE-643-Deep-Learning-Project/blob/main/Report/C3POs_IE643_Project_Report.pdf)
-> - [Code]()
+> - [Code](https://github.com/SubhadeepC28/IE-643-Deep-Learning-Project/tree/main/Code)
 > - [Presentations prepared](https://github.com/SubhadeepC28/IE-643-Deep-Learning-Project/tree/main/Presentations)
 ### Project Description: 
 > In this project, we try to observe pruned subnetworks derived from original networks which can output commensurate accuracy compared to the original network. We try to observe the above over 2 network architectures - the LeNet architecture and a feed-forward multi-layer perceptron (MLP).
